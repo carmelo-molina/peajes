@@ -3,7 +3,7 @@
   <h1><?php echo $this->config->item('producto');?></h1>
   <h2><?php echo $this->config->item('slogan');?></h2>
 </div>
-
+<!-- agregando comentarios --> 
 <div class="content">
   <div class="sub_content">
     <h2>Autenticación</h2>
